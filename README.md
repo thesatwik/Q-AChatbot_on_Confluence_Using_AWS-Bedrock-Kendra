@@ -35,10 +35,11 @@ The first step of utilizing this repo is performing a git clone of the repositor
 
 ```
 git clone https://github.com/thesatwik/Q-AChatbot_on_Confluence_Using_AWS-Bedrock-Kendra.git
+
 ```
 
 After cloning the repo onto your local machine, open it up in your favorite code editor.The file structure of this repo is broken into 3 key files,
-the app.py file, the kendra2bedrock.py file, and the requirements.txt. The app.py file houses the frontend application (a streamlit app). 
+the app_gTTS.py file, the kendra2bedrock.py file, and the requirements.txt. The app_gTTS.py file houses the frontend application (a streamlit app). 
 The kendra2bedrock.py file houses the logic of the application, including the Kendra Retrieve API calls and Amazon Bedrock API invocations.
 The requirements.txt file contains all necessary dependencies for this sample application to work.
 ---
