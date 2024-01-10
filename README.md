@@ -34,7 +34,7 @@ When a user interacts with the GenAI app, the flow is as follows:
 The first step of utilizing this repo is performing a git clone of the repository.
 
 ```
-git clone <clone URL>
+git clone https://github.com/thesatwik/Q-AChatbot_on_Confluence_Using_AWS-Bedrock-Kendra.git
 ```
 
 After cloning the repo onto your local machine, open it up in your favorite code editor.The file structure of this repo is broken into 3 key files,
