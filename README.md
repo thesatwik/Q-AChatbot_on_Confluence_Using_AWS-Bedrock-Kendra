@@ -124,4 +124,4 @@ deactive
 ```
 
 
-## ***The contents of this repository represent my viewpoints along with respources from other Piblic git repos, blogs, AWS documentations, and not of my past or current employers. All third-party libraries, modules, plugins, and SDKs are the property of their respective owners.***
+ **_NOTE:_** The contents of this repository represent my viewpoints along with respources from other Piblic git repos, blogs, AWS documentations, and not of my past or current employers. All third-party libraries, modules, plugins, and SDKs are the property of their respective owners.***
